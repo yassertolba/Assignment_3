@@ -1,4 +1,4 @@
-# DevOps Assignment 2: Docker
+# DevOps Assignment 3: Docker
 
 **Trainee Name: Yasser Ahmed**  
 **Group: ALX2_SWD1_G1**  
